@@ -6,12 +6,12 @@ This repository contains my Python projects, demonstrating my skills in Python p
 #Projects
 
 Project Name: Tic-Tac-Toe  
-Description: A console-based Tic-Tac-Toe against two users, where each user takes turns \n
-Skills Learned: Python Basics, Loops, functions, and conditionals \n
+Description: A console-based Tic-Tac-Toe against two users, where each user takes turns 
+Skills Learned: Python Basics, Loops, functions, and conditionals 
 
 
-Project Name: Expense Tracker \n
-Description: Track daily expenses, categorize them, and view summaries \n
+Project Name: Expense Tracker 
+Description: Track daily expenses, categorize them, and view summaries 
 Skills Learned: File Handling, lists, and creating/ modifying a CSV file
 
 
