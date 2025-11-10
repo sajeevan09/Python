@@ -1,4 +1,4 @@
-Project Overview
+Project Overview  
 This project is a web-based dashboard built with Streamlit that allows users to upload a CSV file of sales data and visualize it interactively. Users can preview data, see summary statistics, and plot trends for numeric columns over time.
 
 
