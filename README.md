@@ -19,3 +19,7 @@ Project Name: Sales Dashboard <br>
 Description: A dashboard that uses Streamlit and pandas to extract data from a CSV file to visualize data <br>
 Skills Learned: SteamLit, pandas, data visualization, Python scripting <br>
 
+
+Project Name: Student Performance Prediction <br>
+Description:
+Skills Learned: 
