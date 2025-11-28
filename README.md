@@ -21,5 +21,5 @@ Skills Learned: SteamLit, pandas, data visualization, Python scripting <br>
 
 
 Project Name: Student Performance Prediction <br>
-Description: Predicts whether a student will pass or fail based on factors like study hours, attendance, and test scores
-Skills Learned: 
+Description: Predicts whether a student will pass or fail based on factors like study hours, attendance, and test scores <br>
+Skills Learned: pandas, data manipulation, machine learning, data visualization
